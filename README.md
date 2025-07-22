@@ -1,1 +1,1 @@
-http://DaSircodes.github.io/Tabla.
+http://DaSircodes.github.io/Tabla
